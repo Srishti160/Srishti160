@@ -2,7 +2,7 @@
 
 I am Data Scientist, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srishti160&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Srishti016's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Srishti160&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Srishti160's Stats" />
 
 
 ## 🚀 About Me
