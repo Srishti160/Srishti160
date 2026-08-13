@@ -4,7 +4,7 @@ I am Data Scientist, driven by a curiosity for technology and a love for writing
 
 <img src="https://github-readme-stats.vercel.app/api?username=Srishti160&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Srishti160's Stats" />
 
-![Srishti160's Stats](https://github-readme-stats.vercel.app/api?username=Srishti160&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=default)
 
 ## 🚀 About Me
 
