@@ -3,10 +3,12 @@
 I am Data Scientist, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=tokyonight)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=tokyonight&exclude=javascript)
-
 ![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=tokyonight&exclude=javascript)
-
 ![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=tokyonight)
 ![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=tokyonight&utcOffset=5.5)
 
@@ -18,12 +20,6 @@ I am Data Scientist, driven by a curiosity for technology and a love for writing
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=tokyonight&exclude=javascript)
 
 
 
