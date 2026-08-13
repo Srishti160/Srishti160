@@ -5,7 +5,7 @@ I am Data Scientist, driven by a curiosity for technology and a love for writing
 ![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=github_dark)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,numpy,pandas,matplotlib,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,sql,c++,java)](https://skillicons.dev)
 
 ![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascript)
 ![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascript)
