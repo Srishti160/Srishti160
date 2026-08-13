@@ -2,15 +2,15 @@
 
 I am Data Scientist, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=tokyonight)
+![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=github_dark)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,numpy,pandas,matplotlib,jupyter)](https://skillicons.dev)
 
-![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=tokyonight&exclude=javascript)
-![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=tokyonight&exclude=javascript)
-![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=tokyonight)
-![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=tokyonight&utcOffset=5.5)
+![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascript)
+![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascript)
+![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_dark)
+![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5)
 
 ## 🚀 About Me
 
