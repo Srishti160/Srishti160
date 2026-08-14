@@ -1,5 +1,53 @@
 <div align="center">
 
+<table style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 15px; border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <!-- Left Column: Generated SVG Image -->
+    <td valign="top" style="border: none; padding-right: 25px;">
+      <img src="ascii-face.svg" alt="ASCII Profile" width="300" />
+    </td>
+
+    <!-- Right Column: Terminal Fetch Card -->
+    <td valign="top" align="left" style="border: none; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 13px; line-height: 1.6; white-space: nowrap;">
+      <pre style="background: transparent; border: none; padding: 0; margin: 0; font-family: inherit;">
+<span style="color: #58a6ff; font-weight: bold;">developer@portfolio</span> <span style="color: #484f58;">------------------------------------------------</span>
+<span style="color: #ff9b54;">. OS:</span> <span style="color: #484f58;">.................................</span> <span style="color: #8cb4d9;">Linux, Windows 11</span>
+<span style="color: #ff9b54;">. Uptime:</span> <span style="color: #484f58;">.............</span> <span style="color: #8cb4d9;">Continuous Learning & Building</span>
+<span style="color: #ff9b54;">. Role:</span> <span style="color: #484f58;">...............</span> <span style="color: #8cb4d9;">Data Analyst / Python Developer</span>
+<span style="color: #ff9b54;">. IDE:</span> <span style="color: #484f58;">................</span> <span style="color: #8cb4d9;">VSCode, Jupyter Notebook, Colab</span>
+
+<span style="color: #d2a8ff; font-weight: bold;">- Skills & Tech Stack -----------------------------------------</span>
+<span style="color: #ff9b54;">. Programming:</span> <span style="color: #484f58;">.............................</span> <span style="color: #8cb4d9;">Python, SQL</span>
+<span style="color: #ff9b54;">. Data.Analytics:</span> <span style="color: #484f58;">....</span> <span style="color: #8cb4d9;">Pandas, NumPy, Matplotlib, Cleaning, EDA</span>
+<span style="color: #ff9b54;">. Databases:</span> <span style="color: #484f58;">........................</span> <span style="color: #8cb4d9;">MySQL, PostgreSQL</span>
+<span style="color: #ff9b54;">. Visualization:</span> <span style="color: #484f58;">...................</span> <span style="color: #8cb4d9;">Tableau, Matplotlib</span>
+<span style="color: #ff9b54;">. Development:</span> <span style="color: #484f58;">........</span> <span style="color: #8cb4d9;">Jupyter Notebook, Google Colab</span>
+<span style="color: #ff9b54;">. Design:</span> <span style="color: #484f58;">........................................</span> <span style="color: #8cb4d9;">Figma</span>
+<span style="color: #ff9b54;">. Collaboration:</span> <span style="color: #484f58;">.................................</span> <span style="color: #8cb4d9;">GitHub</span>
+
+<span style="color: #d2a8ff; font-weight: bold;">- GitHub Stats ------------------------------------------------</span>
+<span style="color: #ff9b54;">. Repos:</span> <span style="color: #484f58;">..........</span> <span style="color: #8cb4d9;">35 {Public}</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Stars:</span> <span style="color: #484f58;">................</span> <span style="color: #8cb4d9;">120+</span>
+<span style="color: #ff9b54;">. Commits:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">1,840</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Followers:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">85</span>
+<span style="color: #ff9b54;">. Lines of Code:</span> <span style="color: #484f58;">..</span> <span style="color: #8cb4d9;">320,150</span> <span style="color: #484f58;">(</span> <span style="color: #56d364;">390,200++</span><span style="color: #484f58;">,</span> <span style="color: #f85149;">70,050--</span> <span style="color: #484f58;">)</span>
+      </pre>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 <a href="https://capsule-render.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Srishti%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 </a>
