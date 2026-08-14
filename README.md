@@ -1,17 +1,5 @@
 # Hi, I'm Srishti! 👋
 
-I am Data Scientist, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=github_dark)
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,pytorch,sklearn,tensorflow,vscode,mysql,cpp,java,figma,anaconda,git,github,idea)](https://skillicons.dev)
-
-![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascript)
-![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascript)
-![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_dark)
-![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5)
-
 ## 🚀 About Me
 
 - 🔭 I have completed my B.Tech in Computer Science Engineering with Specialization in Artificial Intelligence from Bhilai Iinstitute of Technology Durg, Chhattisgarh.
@@ -107,6 +95,16 @@ I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation 
 
 My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
 
+![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=github_dark)
+<!--
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,pytorch,sklearn,tensorflow,vscode,mysql,cpp,java,figma,anaconda,git,github,idea)](https://skillicons.dev)
+-->
+![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascript)
+![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascript)
+![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_dark)
+![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5)
+
 My current technical focus spans:
 
 * **Data Analysis:** Python, Pandas, NumPy, Matplotlib, SQL, EDA
@@ -150,7 +148,7 @@ My current technical focus spans:
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,figma" />
 </p>
 
 | Domain         | Technologies                                  |
@@ -303,7 +301,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 </div>
 
 ---
-
+<!--
 ## Certifications
 
 ### AWS
@@ -321,6 +319,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 ### Cisco
 
 <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-4338CA?style=for-the-badge&logo=cisco&logoColor=white" />
+-->
 
 ### Verified Certifications & Credentials
 
@@ -331,7 +330,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 > **Source-verified credentials:** HackerRank SQL (Intermediate), E-Summit 2025 at IIIT-Naya Raipur, and freeCodeCamp Responsive Web Design.
 
 ---
-
+<!--
 ## Coding Profiles
 
 <div align="center">
@@ -353,20 +352,20 @@ Contributed to the design of web-based product interfaces using Figma and struct
 </a>
 
 </div>
-
+-->
 ---
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srishtikumari168&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0B18" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srishti160&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0B18" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikumari168&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B18" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti160&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B18" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=srishtikumari168&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=Srishti160&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -376,7 +375,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srishtikumari168&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Srishti160&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -386,7 +385,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtikumari168&bg_color=0D0B18&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srishti160&bg_color=0D0B18&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -396,7 +395,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srishtikumari168/srishtikumari168/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Srishti160/Srishti160/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -443,11 +442,11 @@ Current Focus:
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/search/results/people/?keywords=Srishti%20Kumari">
+<a href="https://www.linkedin.com/in/srishti-kumari-psk816/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/search?q=Srishti+Kumari&type=users">
+<a href="https://github.com/Srishti160">
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
