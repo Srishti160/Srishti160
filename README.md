@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-Intermediate-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <a href="mailto:srishtikumari168@gmail.com">
   <img src="https://img.shields.io/badge/Email-srishtikumari168%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" />
