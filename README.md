@@ -344,7 +344,6 @@ Contributed to the design of web-based product interfaces using Figma and struct
 
 </div>
 -->
----
 
 ## Current Focus
 
@@ -405,7 +404,7 @@ Current Focus:
 
 <div align="center">
 
-<sub><b>“ while(!(succeed = try())) ;”</b></sub>
+<sub><b>“ while ( ! ( succeed = try() ) ) ;”</b></sub>
 
 <br/><br/>
 
