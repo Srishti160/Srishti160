@@ -47,12 +47,12 @@ My engineering approach combines **analytical thinking, structured problem solvi
 _____________TRY____________
 <div align="center">
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="45%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="ascii-face.svg" width="400">
+<img src="ascii-face.svg" width="450">
 
 </td>
 
