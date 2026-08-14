@@ -27,7 +27,6 @@
 <span style="color: #ff9b54;">. Repos:</span> <span style="color: #484f58;">..........</span> <span style="color: #8cb4d9;">35 {Public}</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Stars:</span> <span style="color: #484f58;">................</span> <span style="color: #8cb4d9;">120+</span>
 <span style="color: #ff9b54;">. Commits:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">1,840</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Followers:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">85</span>
 <span style="color: #ff9b54;">. Lines of Code:</span> <span style="color: #484f58;">..</span> <span style="color: #8cb4d9;">320,150</span> <span style="color: #484f58;">(</span> <span style="color: #56d364;">390,200++</span><span style="color: #484f58;">,</span> <span style="color: #f85149;">70,050--</span> <span style="color: #484f58;">)</span></pre>
-    </td>
   </tr>
 </table>
 
