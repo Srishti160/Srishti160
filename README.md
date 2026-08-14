@@ -1,10 +1,3 @@
-<img src="profile-card.svg">
-
-
-
-
-
-
 
 <div align="center">
 
@@ -39,34 +32,14 @@
 </div>
 
 ---
+<img src="profile-card.svg">
+---
 
-<div align="center">
+##About
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="ascii-face.svg" width="500">
-
-</td>
-
-<td width="55%" valign="middle">
-
-<h2>About Me</h2>
-
-<p>
 I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation in **Computer Science Engineering with Artificial Intelligence** and hands-on experience across Python, SQL, data processing, visualization, and machine learning fundamentals.
 
 My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ___________________________
 
@@ -80,7 +53,7 @@ ___________________________
 ![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_dark)
 ![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5)
 
-My current technical focus spans:
+##My current technical focus spans:
 
 * **Data Analysis:** Python, Pandas, NumPy, Matplotlib, SQL, EDA
 * **AI / ML:** Machine learning fundamentals, preprocessing, analytical modeling
