@@ -4,11 +4,10 @@
   <tr>
     <!-- Left: SVG Image aligned to top -->
     <td valign="top" style="vertical-align: top; padding: 0 25px 0 0; margin: 0; line-height: 0;">
-      <img src="assets/ascii-face.svg" alt="ASCII Profile" width="280" style="display: block; border-radius: 8px;" />
+      <img src="ascii-face.svg" alt="ASCII Profile" width="280" style="display: block; border-radius: 8px;" />
     </td>
 
-    <!-- Right: Text aligned flush with the top of the image -->
-    <td valign="top" align="left" style="vertical-align: top; padding: 0; margin: 0; line-height: 1;">
+   
 <pre style="margin: 0; padding: 0; background: transparent; border: none; font-family: ui-monospace, 'SF Mono', 'Fira Code', Consolas, monospace; font-size: 12px; line-height: 19px; white-space: pre;"><span style="color: #58a6ff; font-weight: bold;">developer@portfolio</span> <span style="color: #484f58;">------------------------------------------------</span>
 <span style="color: #ff9b54;">. OS:</span> <span style="color: #484f58;">.................................</span> <span style="color: #8cb4d9;">Linux, Windows 11</span>
 <span style="color: #ff9b54;">. Uptime:</span> <span style="color: #484f58;">.............</span> <span style="color: #8cb4d9;">Continuous Learning &amp; Building</span>
