@@ -36,27 +36,18 @@
 
 ---
 
-## About
-<div align="center">
-  <img src="ascii-face.svg" width="400">
-</div>
-I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation in **Computer Science Engineering with Artificial Intelligence** and hands-on experience across Python, SQL, data processing, visualization, and machine learning fundamentals.
-
-My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
-
-_____________TRY____________
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td align="center" valign="middle" style="border: none;">
 
 <img src="ascii-face.svg" width="450">
 
 </td>
 
-<td width="55%" valign="middle">
+<td valign="middle" style="border: none; padding-left: 30px;">
 
 <h2>About Me</h2>
 
