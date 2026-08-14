@@ -11,7 +11,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/GPA-8.10-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-Intermediate-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
 <br/><br/>
@@ -19,18 +18,18 @@
 <a href="mailto:srishtikumari168@gmail.com">
   <img src="https://img.shields.io/badge/Email-srishtikumari168%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Srishti%20Kumari">
+<a href="https://www.linkedin.com/in/srishti-kumari-psk816/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/search?q=Srishti+Kumari&type=users">
+<a href="https://github.com/Srishti160">
   <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=srishtikumari168&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/srishtikumari168?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/srishtikumari168?style=flat-square&color=4F46E5&label=STARS&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Srishti160&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Srishti160?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/stars/Srishti160?style=flat-square&color=4F46E5&label=STARS&logo=github" />
 
 </div>
 
@@ -41,13 +40,13 @@
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td align="center" valign="middle" style="border: none;">
+<td width="45%" align="center" valign="middle">
 
-<img src="ascii-face.svg" width="450">
+<img src="ascii-face.svg" width="500">
 
 </td>
 
-<td valign="middle" style="border: none; padding-left: 30px;">
+<td width="55%" valign="middle">
 
 <h2>About Me</h2>
 
