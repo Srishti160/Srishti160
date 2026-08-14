@@ -37,7 +37,9 @@
 ---
 
 ## About
-
+<div align="center">
+  <img src="ascii-face.jpeg" width="400">
+</div>
 I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation in **Computer Science Engineering with Artificial Intelligence** and hands-on experience across Python, SQL, data processing, visualization, and machine learning fundamentals.
 
 My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
