@@ -44,6 +44,41 @@ I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation 
 
 My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
 
+_____________TRY____________
+<div align="center">
+
+<table>
+<tr>
+
+<!-- LEFT: ASCII IMAGE -->
+<td width="45%" align="center" valign="middle">
+
+<img src="ascii-face.svg" width="400">
+
+</td>
+
+<!-- RIGHT: ABOUT ME -->
+<td width="55%" valign="middle">
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation in **Computer Science Engineering with Artificial Intelligence** and hands-on experience across Python, SQL, data processing, visualization, and machine learning fundamentals.
+
+My engineering approach combines **analytical thinking, structured problem solving, and product-oriented execution**. I enjoy transforming raw and unstructured datasets into meaningful insights, identifying patterns, and building data-driven solutions that can support practical business and research decisions.
+</p>
+<br>
+
+<code>$ echo "Keep building 🚀"</code>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+___________________________
+
 ![Srishti160's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti160&theme=github_dark)
 <!--
 ## Tech Stack
