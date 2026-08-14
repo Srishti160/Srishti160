@@ -1,22 +1,21 @@
 <div align="center">
 
-<table style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 15px; border-collapse: separate; border-spacing: 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; border-collapse: separate; border-spacing: 0; padding: 20px;">
   <tr>
-    <!-- Left Column: Generated SVG Image -->
-    <td valign="top" style="border: none; padding-right: 25px;">
-      <img src="ascii-face.svg" alt="ASCII Profile" width="300" />
+    <!-- Left: SVG Image aligned to top -->
+    <td valign="top" style="vertical-align: top; padding: 0 25px 0 0; margin: 0; line-height: 0;">
+      <img src="assets/ascii-face.svg" alt="ASCII Profile" width="280" style="display: block; border-radius: 8px;" />
     </td>
 
-    <!-- Right Column: Terminal Fetch Card -->
-    <td valign="top" align="left" style="border: none; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 13px; line-height: 1.6; white-space: nowrap;">
-      <pre style="background: transparent; border: none; padding: 0; margin: 0; font-family: inherit;">
-<span style="color: #58a6ff; font-weight: bold;">developer@portfolio</span> <span style="color: #484f58;">------------------------------------------------</span>
+    <!-- Right: Text aligned flush with the top of the image -->
+    <td valign="top" align="left" style="vertical-align: top; padding: 0; margin: 0; line-height: 1;">
+<pre style="margin: 0; padding: 0; background: transparent; border: none; font-family: ui-monospace, 'SF Mono', 'Fira Code', Consolas, monospace; font-size: 12px; line-height: 19px; white-space: pre;"><span style="color: #58a6ff; font-weight: bold;">developer@portfolio</span> <span style="color: #484f58;">------------------------------------------------</span>
 <span style="color: #ff9b54;">. OS:</span> <span style="color: #484f58;">.................................</span> <span style="color: #8cb4d9;">Linux, Windows 11</span>
-<span style="color: #ff9b54;">. Uptime:</span> <span style="color: #484f58;">.............</span> <span style="color: #8cb4d9;">Continuous Learning & Building</span>
+<span style="color: #ff9b54;">. Uptime:</span> <span style="color: #484f58;">.............</span> <span style="color: #8cb4d9;">Continuous Learning &amp; Building</span>
 <span style="color: #ff9b54;">. Role:</span> <span style="color: #484f58;">...............</span> <span style="color: #8cb4d9;">Data Analyst / Python Developer</span>
 <span style="color: #ff9b54;">. IDE:</span> <span style="color: #484f58;">................</span> <span style="color: #8cb4d9;">VSCode, Jupyter Notebook, Colab</span>
 
-<span style="color: #d2a8ff; font-weight: bold;">- Skills & Tech Stack -----------------------------------------</span>
+<span style="color: #d2a8ff; font-weight: bold;">- Skills &amp; Tech Stack -----------------------------------------</span>
 <span style="color: #ff9b54;">. Programming:</span> <span style="color: #484f58;">.............................</span> <span style="color: #8cb4d9;">Python, SQL</span>
 <span style="color: #ff9b54;">. Data.Analytics:</span> <span style="color: #484f58;">....</span> <span style="color: #8cb4d9;">Pandas, NumPy, Matplotlib, Cleaning, EDA</span>
 <span style="color: #ff9b54;">. Databases:</span> <span style="color: #484f58;">........................</span> <span style="color: #8cb4d9;">MySQL, PostgreSQL</span>
@@ -28,14 +27,12 @@
 <span style="color: #d2a8ff; font-weight: bold;">- GitHub Stats ------------------------------------------------</span>
 <span style="color: #ff9b54;">. Repos:</span> <span style="color: #484f58;">..........</span> <span style="color: #8cb4d9;">35 {Public}</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Stars:</span> <span style="color: #484f58;">................</span> <span style="color: #8cb4d9;">120+</span>
 <span style="color: #ff9b54;">. Commits:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">1,840</span> <span style="color: #484f58;">|</span> <span style="color: #ff9b54;">Followers:</span> <span style="color: #484f58;">............</span> <span style="color: #8cb4d9;">85</span>
-<span style="color: #ff9b54;">. Lines of Code:</span> <span style="color: #484f58;">..</span> <span style="color: #8cb4d9;">320,150</span> <span style="color: #484f58;">(</span> <span style="color: #56d364;">390,200++</span><span style="color: #484f58;">,</span> <span style="color: #f85149;">70,050--</span> <span style="color: #484f58;">)</span>
-      </pre>
+<span style="color: #ff9b54;">. Lines of Code:</span> <span style="color: #484f58;">..</span> <span style="color: #8cb4d9;">320,150</span> <span style="color: #484f58;">(</span> <span style="color: #56d364;">390,200++</span><span style="color: #484f58;">,</span> <span style="color: #f85149;">70,050--</span> <span style="color: #484f58;">)</span></pre>
     </td>
   </tr>
 </table>
 
 </div>
-
 
 
 
