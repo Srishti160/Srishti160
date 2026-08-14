@@ -47,10 +47,10 @@ My engineering approach combines **analytical thinking, structured problem solvi
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,pytorch,sklearn,tensorflow,vscode,mysql,cpp,java,figma,anaconda,git,github,idea)](https://skillicons.dev)
 -->
-![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascript)
-![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascript)
-![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_dark)
-![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5)
+![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=radical&exclude=javascript)
+![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=radical&exclude=javascript)
+![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=radical)
+![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=radical&utcOffset=5.5)
 
 My current technical focus spans:
 
@@ -299,7 +299,7 @@ Contributed to the design of web-based product interfaces using Figma and struct
 </a>
 
 </div>
--->
+
 ---
 
 ## GitHub Analytics
@@ -316,37 +316,6 @@ Contributed to the design of web-based product interfaces using Figma and struct
 
 </div>
 
-_____TEST___________
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="./profile/stats.svg" />
-
-<img height="180em" src="./profile/top-langs.svg" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Srishti160&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="./profile/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-_______________________
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -356,7 +325,7 @@ _______________________
 </div>
 
 ---
-
+-->
 ## Contribution Activity
 
 <div align="center">
@@ -366,7 +335,7 @@ _______________________
 </div>
 
 ---
-
+<!--
 ## Contribution Snake
 
 <div align="center">
@@ -374,7 +343,7 @@ _______________________
 <img src="https://raw.githubusercontent.com/Srishti160/Srishti160/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
-
+-->
 ---
 
 ## Current Focus
