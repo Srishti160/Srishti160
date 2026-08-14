@@ -47,10 +47,10 @@ My engineering approach combines **analytical thinking, structured problem solvi
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,pytorch,sklearn,tensorflow,vscode,mysql,cpp,java,figma,anaconda,git,github,idea)](https://skillicons.dev)
 -->
-![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=radical&exclude=javascript)
-![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=radical&exclude=javascript)
-![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=radical)
-![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=radical&utcOffset=5.5)
+![Srishti160's Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti160&theme=github_dark&exclude=javascriptcolor=A78BFA)
+![Srishti's Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti160&theme=github_dark&exclude=javascriptcolor=A78BFA)
+![Srishti's Git Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti160&theme=github_darkcolor=A78BFA)
+![Srishti's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srishti160&theme=github_dark&utcOffset=5.5color=A78BFA)
 
 My current technical focus spans:
 
