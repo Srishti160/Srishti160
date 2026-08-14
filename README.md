@@ -33,6 +33,7 @@
 
 ---
 <img src="profile-card.svg">
+
 ## About
 
 I am an aspiring **Data Analyst and AI/ML enthusiast** with a strong foundation in **Computer Science Engineering with Artificial Intelligence** and hands-on experience across Python, SQL, data processing, visualization, and machine learning fundamentals.
