@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Srishti%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Srishti%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 </a>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+AI%2FML+Enthusiast;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Data+Cleaning+%7C+EDA+%7C+Visualization;Building+Data-Driven+Solutions" alt="Typing SVG" />
